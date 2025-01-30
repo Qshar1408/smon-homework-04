@@ -27,7 +27,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
-
+![Monitoring_003](https://github.com/Qshar1408/smon-homework-04/blob/main/img/smon04_003.png)
 ---
 
 ### Задание 3
@@ -42,7 +42,9 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
-
+![Monitoring_004](https://github.com/Qshar1408/smon-homework-04/blob/main/img/smon04_004.png)
+![Monitoring_005](https://github.com/Qshar1408/smon-homework-04/blob/main/img/smon04_005.png)
+![Monitoring_006](https://github.com/Qshar1408/smon-homework-04/blob/main/img/smon04_006.png)
 ---
 ## Дополнительные задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. Это не повлияет на зачёт. Вы можете их выполнить, если хотите глубже разобраться в материале.
